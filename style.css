@@ -1,0 +1,44 @@
+body{
+	background-color: #5FFF96; 
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+#conteneur{
+	display: flex;
+}
+h1{
+	border: solid black 1px;
+	border-radius: 10px;
+	background-color:#3473a0;
+	text-align: center;
+	
+}
+#maliste{
+	border: solid black 1px ;
+	width:40px;
+	height:40px;
+	display: flex;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+}
+li{
+	border:solid white 1px;
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: #3473a0;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+}
+#zizi{
+	background-color: #f3950d
+}
+p{
+	text-align: center;
+}
